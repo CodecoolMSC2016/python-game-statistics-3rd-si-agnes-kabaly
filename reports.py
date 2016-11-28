@@ -1,6 +1,3 @@
-
-# Report functions
-
 #count_games(file_name)
 
 def count_games(file_name):
